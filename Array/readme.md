@@ -1,5 +1,7 @@
 ## Array
 
+<a href="https://www.cpp.edu/~elab/ECE114/Array.html#" target="_blank">Introduction</a> of the array.
+
 Array is a collection of similer types of data elements. 
 - how to define array in C++
 - syntax: data_type array_name[array_size] 
